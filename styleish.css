@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	text-align: center; 
+	color: black;
+	background-color: rgba(156,156,156,1.00);
+	font-size: 50px
+}
+
+button{
+	background-color: rgba(156,156,156,1.00);
+}
+
+/*page2*/
+
+body{
+	background-color: rgba(226,226,226,1.00);
+}
+
+p{
+	text-align: center;
+	font-size: 100;
+	color: black;
+}
+
+a{
+	color: black;
+}
+
+
